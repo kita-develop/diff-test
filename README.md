@@ -1,8 +1,8 @@
 ﻿# diff-test
-diff練習用-main
+diff練習用feature
 変更working directory用3rd
 mergetool コンフリクト用(featureブランチ用)
-main
+feature
 [credential]
 	helper = manager
 [diff]
