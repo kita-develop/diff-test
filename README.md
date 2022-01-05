@@ -1,8 +1,8 @@
 ﻿# diff-test
-diff練習用feature
+diff練習用featureOnFeature
 変更working directory用3rd
 mergetool コンフリクト用(featureブランチ用)
-feature
+featureOnFeature
 [credential]
 	helper = manager
 [diff]
