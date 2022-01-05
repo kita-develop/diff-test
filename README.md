@@ -1,4 +1,4 @@
-# diff-test
+﻿# diff-test
 diff練習用
 変更working directory用3rd
-mainブランチで変更
+mergetool コンフリクト用(featureブランチ用)
