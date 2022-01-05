@@ -2,7 +2,7 @@
 diff練習用featureOnMain
 変更working directory用3rd
 mergetool コンフリクト用(featureブランチ用)
-featureOnMain
+featureOnFeature
 [credential]
 	helper = manager
 [diff]
@@ -18,6 +18,6 @@ featureOnMain
 [mergetool "p4merge"]
 	cmd = \"C:\\Program Files\\Perforce\\p4merge.exe\" \"$BASE\" \"$LOCAL\" \"$REMOTE\" \"$MERGED\"
 [mergetool]
-	trustExitCode = false
+	trustExitCode = true
 [mergetool]
-	prompt = false
+	prompt = true
